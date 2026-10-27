@@ -1,0 +1,69 @@
+[2026-10-21 16:13:25] INFO  配置文件：C:\Users\21346\AppData\Roaming\reasonix\global-workspace\qq-bot\config.json
+[2026-10-21 16:13:25] INFO  工作目录：C:\Users\21346\AppData\Roaming\reasonix\global-workspace\qq-bot
+[2026-10-21 16:13:25] INFO  reasonix 可执行文件：C:\Users\21346\AppData\Roaming\npm\node_modules\reasonix\node_modules\@reasonix\cli-win32-x64\bin\reasonix.exe（来源：npm-global）
+[2026-10-21 16:13:25] INFO  等待 NapCat 接入：ws://127.0.0.1:6700/onebot
+[2026-10-21 16:13:25] INFO  机器人「阿临」已启动，正在等待 QQ 连接…
+[2026-10-21 16:13:41] WARN  还没有收到 NapCat 的连接。请检查 NapCat 的网络配置：反向 WebSocket 地址指向 ws://127.0.0.1:6700/onebot
+[2026-10-21 16:13:41] INFO  机器人已就绪。按 Ctrl+C 退出。
+[2026-10-21 16:17:51] INFO  NapCat 已通过反向 WebSocket 接入（127.0.0.1）
+[2026-10-21 16:17:51] INFO  NapCat 生命周期事件：连接建立
+[2026-10-21 16:19:49] INFO  [private:462377482] 思考中…（1 条：你好）
+[2026-10-21 16:19:56] INFO  [private:462377482] 已回复（思考 5477ms，共 7218ms）：嗨，咋啦
+[2026-10-21 16:20:10] WARN  WebSocket 连接断开（code=1000 peer closed）
+[2026-10-21 16:42:53] INFO  配置文件：E:\QQAI\config.json
+[2026-10-21 16:42:53] INFO  工作目录：E:\QQAI
+[2026-10-21 16:42:53] INFO  reasonix 可执行文件：C:\Users\21346\AppData\Roaming\npm\node_modules\reasonix\node_modules\@reasonix\cli-win32-x64\bin\reasonix.exe（来源：npm-global）
+[2026-10-21 16:42:57] INFO  配置文件：E:\QQAI\config.json
+[2026-10-21 16:42:57] INFO  工作目录：E:\QQAI
+[2026-10-21 16:42:57] INFO  reasonix 可执行文件：C:\Users\21346\AppData\Roaming\npm\node_modules\reasonix\node_modules\@reasonix\cli-win32-x64\bin\reasonix.exe（来源：npm-global）
+[2026-10-21 16:44:08] INFO  配置文件：E:\QQAI\config.json
+[2026-10-21 16:44:08] INFO  工作目录：E:\QQAI
+[2026-10-21 16:44:08] INFO  reasonix 可执行文件：C:\Users\21346\AppData\Roaming\npm\node_modules\reasonix\node_modules\@reasonix\cli-win32-x64\bin\reasonix.exe（来源：npm-global）
+[2026-10-21 16:57:22] INFO  配置文件：E:\QQAI\config.json
+[2026-10-21 16:57:22] INFO  工作目录：E:\QQAI
+[2026-10-21 16:57:22] INFO  reasonix 可执行文件：C:\Users\21346\AppData\Roaming\npm\node_modules\reasonix\node_modules\@reasonix\cli-win32-x64\bin\reasonix.exe（来源：npm-global）
+[2026-10-21 17:08:34] INFO  配置文件：E:\QQAI\config.json
+[2026-10-21 17:08:34] INFO  工作目录：E:\QQAI
+[2026-10-21 17:08:34] INFO  已载入 4 个会话的历史记录
+[2026-10-21 17:08:34] INFO  reasonix 可执行文件：C:\Users\21346\AppData\Roaming\npm\node_modules\reasonix\node_modules\@reasonix\cli-win32-x64\bin\reasonix.exe（来源：npm-global）
+[2026-10-21 17:08:34] INFO  等待 NapCat 接入：ws://127.0.0.1:6700/onebot
+[2026-10-21 17:08:34] INFO  还没有可用的表情包；把图放进 E:\QQAI\data\stickers（文件名就是含义，比如 笑.gif）
+[2026-10-21 17:08:34] INFO  机器人「小布」已启动，正在等待 QQ 连接…
+[2026-10-21 17:08:50] WARN  还没有收到 NapCat 的连接。请检查 NapCat 的网络配置：反向 WebSocket 地址指向 ws://127.0.0.1:6700/onebot
+[2026-10-21 17:08:50] INFO  机器人已就绪。按 Ctrl+C 退出。
+[2026-10-21 17:08:54] INFO  NapCat 已通过反向 WebSocket 接入（127.0.0.1）
+[2026-10-21 17:08:54] INFO  NapCat 生命周期事件：连接建立
+[2026-10-21 17:08:56] INFO  收集到一个表情包（1637KB，来自 group:917122396）→ 13875d9750ffcd6f.jpg
+[2026-10-21 17:09:08] INFO  收集到一个表情包（8KB，来自 private:462377482）→ 3d1f61e2bb59d024.jpg
+[2026-10-21 17:09:09] INFO  [private:462377482] 思考中…（1 条：[图片]）
+[2026-10-21 17:09:15] INFO  [private:462377482] 已回复（思考 4763ms，共 5844ms）：这啥呀，我这边图没刷出来呢
+[2026-10-21 17:09:28] WARN  WebSocket 连接断开（code=1000 peer closed）
+[2026-10-21 17:11:47] INFO  配置文件：E:\QQAI\config.json
+[2026-10-21 17:11:47] INFO  工作目录：E:\QQAI
+[2026-10-21 17:11:47] INFO  已载入 4 个会话的历史记录
+[2026-10-21 17:11:47] INFO  reasonix 可执行文件：C:\Users\21346\AppData\Roaming\npm\node_modules\reasonix\node_modules\@reasonix\cli-win32-x64\bin\reasonix.exe（来源：npm-global）
+[2026-10-21 17:11:47] INFO  等待 NapCat 接入：ws://127.0.0.1:6700/onebot
+[2026-10-21 17:11:47] INFO  还没有可用的表情包；把图放进 E:\QQAI\data\stickers（文件名就是含义，比如 笑.gif）
+[2026-10-21 17:11:47] INFO  机器人「小布」已启动，正在等待 QQ 连接…
+[2026-10-21 17:12:02] WARN  还没有收到 NapCat 的连接。请检查 NapCat 的网络配置：反向 WebSocket 地址指向 ws://127.0.0.1:6700/onebot
+[2026-10-21 17:12:02] INFO  机器人已就绪。按 Ctrl+C 退出。
+[2026-10-21 19:49:35] INFO  配置文件：E:\QQAI\config.json
+[2026-10-21 19:49:35] INFO  工作目录：E:\QQAI
+[2026-10-21 19:49:35] INFO  已载入 4 个会话的历史记录
+[2026-10-21 19:49:35] INFO  reasonix 可执行文件：C:\Users\21346\AppData\Roaming\npm\node_modules\reasonix\node_modules\@reasonix\cli-win32-x64\bin\reasonix.exe（来源：npm-global）
+[2026-10-21 19:49:35] INFO  等待 NapCat 接入：ws://127.0.0.1:6700/onebot
+[2026-10-21 19:49:35] INFO  还没有可用的表情包；把图放进 E:\QQAI\data\stickers（文件名就是含义，比如 笑.gif）
+[2026-10-21 19:49:35] INFO  机器人「小布」已启动，正在等待 QQ 连接…
+[2026-10-21 19:49:50] WARN  还没有收到 NapCat 的连接。请检查 NapCat 的网络配置：反向 WebSocket 地址指向 ws://127.0.0.1:6700/onebot
+[2026-10-21 19:49:50] INFO  机器人已就绪。按 Ctrl+C 退出。
+[2026-10-21 19:50:38] INFO  NapCat 已通过反向 WebSocket 接入（127.0.0.1）
+[2026-10-21 19:50:38] INFO  NapCat 生命周期事件：连接建立
+[2026-10-21 19:51:00] INFO  [group:1021836068] 只贴了个表情回应 无痕
+[2026-10-21 19:51:34] INFO  [group:1021836068] 思考中…（1 条：布布子来个核吧色图）
+[2026-10-21 19:51:41] INFO  [group:1021836068] 已回复（思考 4725ms，共 6467ms）：绒布球闭嘴喵，核不扩散！！！
+[2026-10-21 19:53:16] INFO  [group:1021836068] 思考中…（1 条：@你 说话）
+[2026-10-21 19:53:25] INFO  [group:1021836068] 已回复（思考 5455ms，共 9705ms）：叫什么呢，被点个名就想让我开口，绒布球也要讲规矩哦～
+[2026-10-21 19:54:11] INFO  [group:1021836068] 思考中…（1 条：小布说话）
+[2026-10-21 19:54:19] INFO  [group:1021836068] 已回复（思考 5325ms，共 7799ms）：小布在呢，不过你这口气跟使唤人似的，绒布球才这么被叫唤吧～
+[2026-10-21 19:55:52] INFO  [group:1021836068] 思考中…（1 条：小布你是基于什么思考回答的）
+[2026-10-21 19:56:00] INFO  [group:1021836068] 已回复（思考 4902ms，共 7911ms）：这问题问得跟查户口一样，绒布球才这么好奇吧～

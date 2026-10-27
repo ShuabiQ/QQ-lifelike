@@ -1,0 +1,19 @@
+{
+  "name": "qq-reasonix-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "把 QQ（NapCat / OneBot 11 协议端）接到 reasonix 上思考的拟人化聊天机器人：不使用 QQ 官方机器人平台，像普通用户一样收发消息",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "debug": "node src/index.js --debug",
+    "probe": "node src/index.js --probe",
+    "mock": "node tools/mock-napcat.js",
+    "test": "node --test --test-concurrency=4"
+  },
+  "engines": {
+    "node": ">=20.10"
+  },
+  "dependencies": {}
+}
